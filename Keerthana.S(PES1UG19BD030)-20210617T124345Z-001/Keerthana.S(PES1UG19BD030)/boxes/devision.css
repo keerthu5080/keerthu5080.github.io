@@ -1,0 +1,158 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: white; 
+}
+.nav-bar{
+  width: 100%;
+  background-color: burlywood;
+  display: flex;
+  height: 20%;
+  position: absolute;
+}
+.logo{
+  background-color: cadetblue;
+  width: 8%;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-left:  1%;
+  margin-top: 1%;
+}
+.link-box{
+  width: 92%;
+  height: 88%;
+  background-color: cadetblue;
+  display: flex;
+  margin-left: 1.5%;
+  margin-top: 1%;
+}
+.link-box .link-one{
+
+  width: 7.5%;
+  height: 30.5%;
+  background-color: red;
+  align-self: center;
+  display: inline-block;
+}
+.link-box .link-two{
+  width: 7.5%;
+  height: 30.5%;
+  background-color: red;
+  align-self: center;
+  display: inline-block;
+ margin-left: 1.5%;
+}
+.link-box .link-three{
+  width: 7.5%;
+  height: 30.5%;
+  background-color: red;
+  align-self: center;
+  display: inline-block;
+  margin-left: 1.5%;
+}
+.link-box .link-four{
+  width: 7.5%;
+  height: 30.5%;
+  background-color: red;
+  align-self: center;
+  display: inline-block;
+  margin-left: 1.5%;
+}
+.container-box{
+ 
+  width: 100%;
+  display: flex;
+ 
+}
+.container-box .left-box{
+  background: #A08F9C;
+width: 50%;
+  height: 80%;
+  position: absolute;
+  margin-top: 9.8%;
+}
+.sentence{
+  margin-left: 17%;
+align-self: center;
+  width: 65%;
+  height: 22%;
+  background-color: aquamarine; 
+ position: absolute;
+  margin-top: 10%;
+}
+.line{
+  background-color: aquamarine;
+  width: 70%;
+  height: 35%;
+ align-self: center;
+  margin-left: 14%;
+  position: absolute;
+  margin-top: 30%;
+}
+.card{
+  background-color: yellow;
+  width: 30%;
+  height: 40%;
+  align-self: center;
+  margin-left: 34.5%;
+  position: absolute;
+  margin-top: 50%;
+}
+.container-box .right-box{
+  width: 50%;
+  height: 80%;
+  
+
+    
+}
+.footer{
+  height: 100px;
+  width: 100vw;
+  position: absolute;
+  z-index: 20;
+  display: flex;
+  background-color: yellow;
+  align-self: center;
+  bottom: 15px;
+}
+.icons{
+  width: 50%;
+  height: 84%;
+  display: flex;
+  align-self: center;
+  margin-left: 23.5%;
+  background-color: burlywood;
+  position: absolute;
+}
+.icons .facebook{
+   width: 7.5%;
+  height: 75%;
+  margin-left: 35%;
+  background-color: red;
+  align-self: center;
+  display: inline-block;
+}
+.icons .dribble{
+    width: 7.5%;
+  height: 75%;
+  margin-left: 3%;
+  background-color: red;
+  align-self: center;
+  display: inline-block;
+}
+.icons .twitter{
+      width: 7.5%;
+  height: 75%;
+  margin-left: 3%;
+  background-color: red;
+  align-self: center;
+  display: inline-block;
+}
+.icons .instagram{
+      width: 7.5%;
+  height: 75%;
+  margin-left: 3%;
+  background-color: red;
+  align-self: center;
+  display: inline-block;
+}
